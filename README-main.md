@@ -206,7 +206,7 @@ pip install -r requirements.txt
 
 If you intend to use Gemini, install the extra package:
 ```cmd
-pip install google-generativeai
+pip install google-genai
 ```
 
 Copy and configure the environment file:
@@ -279,7 +279,7 @@ pip install -r requirements.txt
 
 For Gemini:
 ```bash
-pip install google-generativeai
+pip install google-genai
 ```
 
 Copy and configure:
@@ -364,7 +364,7 @@ pip install -r requirements.txt
 
 For Gemini:
 ```bash
-pip install google-generativeai
+pip install google-genai
 ```
 
 Copy and configure:

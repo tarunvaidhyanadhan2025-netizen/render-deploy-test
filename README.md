@@ -321,7 +321,7 @@ DEBUG=true
 ALLOWED_ORIGINS=http://localhost:3000
 ```
 
-> 💡 **Tip:** RxLens works without any API keys using the local Ollama provider or the built-in template fallback. For best results, add a Gemini API key (free tier available).
+> 💡 **Tip:** RxLens can work without any API keys using the local Ollama provider.
 
 ---
 
@@ -468,9 +468,11 @@ The combination of **computer vision** (OCR + OpenCV), **multiple AI models** (G
 
 | Member | Role |
 |---|---|
-| [Your Name](https://github.com/your-username) | Full Stack & AI Engineering |
+| [Tarun Vaidhyanadhan](https://github.com/tarunvaidhyanadhan2025-netizen) | Backend |
+| [Sanjeev V R](https://github.com/sanjeevvr11) | Frontend |
 
-*Built with ❤️ during [Hackathon Name] — [Date]*
+
+*Built with ❤️ for [Vibe Coding Hackathon 2026]*
 
 </div>
 
@@ -508,8 +510,8 @@ See [LICENSE](LICENSE) for the full text.
 
 <br/>
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/rxlens?style=social)](https://github.com/your-username/rxlens)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/rxlens?style=social)](https://github.com/your-username/rxlens/fork)
+[![GitHub stars](https://img.shields.io/github/stars/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate?style=social)](https://github.com/your-username/rxlens)
+[![GitHub forks](https://img.shields.io/github/forks/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirate?style=social)](https://github.com/your-username/rxlens/fork)
 
 <br/>
 

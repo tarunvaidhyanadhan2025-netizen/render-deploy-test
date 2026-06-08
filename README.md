@@ -268,8 +268,8 @@ Ensure the following are installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rxlens.git
-cd rxlens
+git clone https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-prompt-pirates.git
+cd vibe-coding-hackathon-2026-prompt-pirates
 ```
 
 ---
@@ -280,13 +280,13 @@ cd rxlens
 cd backend
 
 # Create and activate a virtual environment
-python -m venv venv
+python -m venv .venv
 
 # Windows
-venv\Scripts\activate
+.venv\Scripts\activate
 
 # macOS / Linux
-source venv/bin/activate
+source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt

@@ -382,44 +382,60 @@ The app will be available at **[http://localhost:3000](http://localhost:3000)** 
 <div align="center">
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](screenshots/Landing-1.png)
+![Landing Page](screenshots/Landing-2.png)
+![Landing Page](screenshots/Landing-3.png)
 *Clean, minimal entry point with upload prompt*
 
 ---
 
 ### 📤 Upload Prescription
-![Upload](screenshots/upload.png)
+![Upload](screenshots/Upload.png)
 *Drag-and-drop prescription image upload with real-time preview*
 
 ---
 
 ### 📊 AI Analysis Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard-1.png)
+![Dashboard](screenshots/Dashboard-2.png)
+![Dashboard](screenshots/Dashboard-3.png)
+![Dashboard](screenshots/Dashboard-4.png)
 *Full safety report with medicine cards, confidence score, and provider info*
 
 ---
 
 ### ⚠️ Awareness Alerts
-![Alerts](screenshots/alerts.png)
+![Alerts](screenshots/Alert.png)
 *Clinically significant risk notices, clearly separated from common side effects*
 
 ---
 
-### 🌿 Lifestyle Recommendations
-![Lifestyle](screenshots/lifestyle.png)
-*Categorised guidance: What to Avoid · Best Practices · Supportive Habits*
+### 🌿 Detailed Medicine Card
+![Lifestyle](screenshots/Record-1.png)
+![Lifestyle](screenshots/Record-2.png)
+![Lifestyle](screenshots/Record-3.png)
+![Lifestyle](screenshots/Record-4.png)
+![Lifestyle](screenshots/Record-5.png)
+![Lifestyle](screenshots/Record-6.png)
+*Overview · Dosage · Side Effects · Interactions · Lifestyle*
 
 ---
 
 ### 📅 Today's Precautions
-![Precautions](screenshots/precautions.png)
+![Precautions](screenshots/Precaution.png)
 *Top 3–6 most important actions for the day, sorted by severity*
 
 ---
 
 ### 🕑 Prescription History
-![History](screenshots/history.png)
+![History](screenshots/History.png)
 *Browse and revisit past prescription analyses*
+
+---
+
+### 🖨️ Print
+![Print](screenshots/Print.png)
+*Print prescription to PDFpast prescription analyses*
 
 </div>
 

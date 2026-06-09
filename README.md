@@ -435,7 +435,7 @@ The app will be available at **[http://localhost:3000](http://localhost:3000)** 
 
 ### 🖨️ Print
 ![Print](screenshots/Print.png)
-*Print prescription to PDFpast prescription analyses*
+*Print prescription to PDF*
 
 </div>
 

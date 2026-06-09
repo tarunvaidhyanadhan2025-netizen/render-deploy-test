@@ -50,7 +50,6 @@ Every day, millions of patients walk out of clinics holding handwritten prescrip
 
 | Challenge | Impact |
 |---|---|
-| 📝 Illegible handwritten prescriptions | Patients guess dosages or skip medication |
 | 💊 Unknown drug interactions | Preventable adverse events go unnoticed |
 | 🍊 Food & lifestyle conflicts | e.g. grapefruit + statins, alcohol + benzodiazepines |
 | ⚠️ Missed precautions | No sun exposure warnings, no driving alerts |
@@ -455,10 +454,9 @@ The combination of **computer vision** (OCR + OpenCV), **multiple AI models** (G
 | 🟡 Medium | Multi-language prescription support | In Design |
 | 🟡 Medium | Doctor / pharmacist dashboard | In Design |
 | 🟡 Medium | Medicine reminder notifications | Planned |
-| 🟢 Low | EHR (Electronic Health Record) integration | Research |
+| 🟢 Low | EHR (Electronic Health Record) integration | Planned |
 | 🟢 Low | Cloud deployment (Docker + CI/CD) | In Progress |
-| 🟢 Low | AI confidence scoring & consensus engine | Research |
-| 🟢 Low | Multi-LLM consensus for higher accuracy | Research |
+| 🟢 Low | AI confidence scoring & consensus engine | In Design |
 
 ---
 
@@ -483,7 +481,7 @@ The combination of **computer vision** (OCR + OpenCV), **multiple AI models** (G
 ```
 MIT License
 
-Copyright (c) 2024 RxLens Contributors
+Copyright (c) 2026 HackIndia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -497,10 +495,12 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ```
-
-See [LICENSE](LICENSE) for the full text.
 
 ---
 
